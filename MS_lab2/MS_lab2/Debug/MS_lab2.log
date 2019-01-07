@@ -1,0 +1,7 @@
+﻿  MS_lab2.cpp
+c:\users\игорь\source\repos\ms_lab2\ms_lab2\ms_lab2.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\игорь\source\repos\ms_lab2\ms_lab2\ms_lab2.cpp(133): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\игорь\source\repos\ms_lab2\ms_lab2\ms_lab2.cpp(213): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\игорь\source\repos\ms_lab2\ms_lab2\ms_lab2.cpp(247): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\игорь\source\repos\ms_lab2\ms_lab2\ms_lab2.cpp(251): warning C4018: <: несоответствие типов со знаком и без знака
+  MS_lab2.vcxproj -> c:\Users\Игорь\source\repos\MS_lab2\Debug\MS_lab2.exe
